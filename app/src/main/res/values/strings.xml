@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Abhinav(c0761494)_MT</string>
+    <string-array name="Cars">
+        <item>"Please Choose a car"</item>
+        <item>"BMW"</item>
+        <item>"Audi"</item>
+        <item>"Mercedes"</item>
+        <item>"Toyota"</item>
+        <item>"Nissan"</item>
+        <item>"Honda"</item>
+        <item>"VW"</item>
+        <item>"Cadillac"</item>
+
+
+    </string-array>
+</resources>
